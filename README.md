@@ -1,12 +1,12 @@
 # aboutme
 
-#Repository Links
+## Repository Links
 
 [webpage](https://github.com/S534929/aboutme/edit/master/README.md)
 
 [source](https://github.com/S534929/aboutme)
 
-##About
+## About
 
 This repository is developed in GitHub to use in the web applications.
 
