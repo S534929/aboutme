@@ -17,11 +17,11 @@ This repository is developed in GitHub to use in the web applications.
 
 ## Recommended Resources 
 
-[To create a Repo in GitHub](https://help.github.com/articles/create-a-repo/): It is very helpful to improve our coding skills.
+[To create a Repo in GitHub](https://help.github.com/articles/create-a-repo/): Coding skill can be improved.
 
 [tortoisegit with GitHub](https://dbanck.svbtle.com/github-windows-and-tortoisegit-part-1-installing-pulling):It will explain how to use a github repository in windows using TortoiseGit.
 
-[Microsoft corporate](https://www.youtube.com/watch?v=Fjo20qYsXqc):It is a leadind IT company in the entire world.
+[Microsoft corporate](https://www.youtube.com/watch?v=Fjo20qYsXqc): It is a leadind IT company in the entire world.
 
 ## Contributers
 
