@@ -8,8 +8,7 @@
 
 ##About
 
-This repository is develop GitHub to use in the web applications.
-So,I have done to use in the future.
+This repository is developed in GitHub to use in the web applications.
 
 ## Recommended Tools
 
